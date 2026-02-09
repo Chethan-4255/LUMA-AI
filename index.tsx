@@ -6,7 +6,7 @@ import App from './App';
 // In a real production app, this would be handled by a build process/server.
 (window as any).process = {
   env: {
-    API_KEY: 'AIzaSyByrWCEqANBPvyinUQh6VJ8MwAhFi73As4'
+    API_KEY: 'YOUR_API_KEY'
   }
 };
 
